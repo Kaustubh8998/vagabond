@@ -1,0 +1,16 @@
+
+Upcoming
+-In the Upcoming filter box, the arrow has disappeared completely
+
+Corporate
+-Add company logos in Past Clients section
+
+
+Payment box
+-Please start working on the 'i-frame' for the payment option
+
+
+Desktop
+-Make the leaves of the footer bigger. And there are few patches where there are gaps between them. Can you make sure all overlap and there are no gaps?
+-The testimonial photos overlap with the face illustration on the left side when it moves. Can you move the face a little up and left so that the face doesn't overlap with it?
+-On the About us page, center ‘The Team’ text, and move the face of the girl to the left side of ‘The Team’. Just beside it. Not to the extreme left. And make it 30% bigger ideally.
